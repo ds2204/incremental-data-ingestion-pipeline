@@ -75,7 +75,7 @@ This project demonstrates an incremental data ingestion pipeline on AWS, focusin
 ![Screenshot (264).png](https://prod-files-secure.s3.us-west-2.amazonaws.com/1ed43f61-a377-4a7e-9d58-295eaae76e4b/713c6f1a-68a1-4ec8-bb8f-8e82fd3aaf4e/Screenshot_(264).png)
 
 ### 2nd upload to s3
-![Screenshot (260).png](https://prod-files-secure.s3.us-west-2.amazonaws.com/1ed43f61-a377-4a7e-9d58-295eaae76e4b/b67bdee5-b058-4954-a6f2-170ec667f50e/Screenshot_(260).png)
+![Screenshot (260)](https://github.com/user-attachments/assets/2928a519-6f7d-4e10-bbc0-00e52f0c98b1)
 
 ## Conclusion
 
