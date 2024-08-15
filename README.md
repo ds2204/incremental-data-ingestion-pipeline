@@ -1,6 +1,6 @@
 
 # Incremental Data Ingestion Pipeline with AWS RDS, Glue, S3, and Redshift
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/1ed43f61-a377-4a7e-9d58-295eaae76e4b/6ffb6619-d5bc-44b1-8a15-c24224d1f9d4/image.png)
+![image](https://github.com/user-attachments/assets/be715a46-02a7-46ff-bb8b-3714705ec34c)
 
 ## Overview
 
@@ -34,7 +34,7 @@ This project demonstrates an incremental data ingestion pipeline on AWS, focusin
      - **Transformation**: Any additional transformations (e.g., renaming columns, changing data types) are applied downstream of the filter.
      - **Load**: The filtered prepaid data is loaded into a designated table in Amazon Redshift.
 
-![Screenshot (248).png](https://prod-files-secure.s3.us-west-2.amazonaws.com/1ed43f61-a377-4a7e-9d58-295eaae76e4b/76909603-ffe6-4a79-92db-0af00046168e/Screenshot_(248).png)
+![Screenshot (248)](https://github.com/user-attachments/assets/22f58610-855d-42f9-a58e-1349c2b792f7)
 
 
 ### 4. **Data Validation in Redshift**
@@ -72,7 +72,7 @@ This project demonstrates an incremental data ingestion pipeline on AWS, focusin
 - Verify that the Redshift table contains only prepaid data after the ETL job completes.
 
 ### 1st upload to s3
-![Screenshot (264).png](https://prod-files-secure.s3.us-west-2.amazonaws.com/1ed43f61-a377-4a7e-9d58-295eaae76e4b/713c6f1a-68a1-4ec8-bb8f-8e82fd3aaf4e/Screenshot_(264).png)
+![Screenshot (251)](https://github.com/user-attachments/assets/a27a6e1c-7e52-4a57-9d69-e042aa339971)
 
 ### 2nd upload to s3
 ![Screenshot (260)](https://github.com/user-attachments/assets/2928a519-6f7d-4e10-bbc0-00e52f0c98b1)
